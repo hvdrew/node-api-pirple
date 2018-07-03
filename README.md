@@ -1,4 +1,5 @@
-## Node Only API Server
+# Node API Server
+### No External Dependencies
 
 This project's goal is to create a full RESTful API with nothing more than Node.js's built in API. Nothing will be used as a dependency other than (eventually) using Twillio to handle SMS notifications.
 
